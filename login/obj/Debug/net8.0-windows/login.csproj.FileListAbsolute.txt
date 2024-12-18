@@ -1,0 +1,8 @@
+C:\Users\NINA\source\repos\Thrive\login\obj\Debug\net8.0-windows\login.Form1.resources
+C:\Users\NINA\source\repos\Thrive\login\obj\Debug\net8.0-windows\login.frmlogin.resources
+C:\Users\NINA\source\repos\Thrive\login\obj\Debug\net8.0-windows\login.csproj.GenerateResource.cache
+C:\Users\NINA\source\repos\Thrive\login\obj\Debug\net8.0-windows\login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NINA\source\repos\Thrive\login\obj\Debug\net8.0-windows\login.AssemblyInfoInputs.cache
+C:\Users\NINA\source\repos\Thrive\login\obj\Debug\net8.0-windows\login.AssemblyInfo.cs
+C:\Users\NINA\source\repos\Thrive\login\obj\Debug\net8.0-windows\login.csproj.CoreCompileInputs.cache
+C:\Users\NINA\source\repos\Thrive\login\obj\Debug\net8.0-windows\login.sourcelink.json
